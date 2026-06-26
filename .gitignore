@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+.idea/
+# Claude Code local setup (agent-specific wiring, not part of the kit)
+.claude/
+
+# Logs
+*.log
+mcp-server.log
+
+# Node (in case any tooling is added)
+node_modules/
